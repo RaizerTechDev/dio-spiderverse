@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  height: 100vh;
+  transition: background 1s ease-in-out;
+  -webkit-transition: background 1s ease-in-out;
+  -moz-transition: background 1s ease-in-out;
+  -ms-transition: background 1s ease-in-out;
+  -o-transition: background 1s ease-in-out;
+  background-size: cover;
+}
+
+:root:not(.hero-page)::before {
+  content: "";
+  background: linear-gradient(#444445, #0056ba);
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+@media only screen and (min-device-height: 1000px) {
+  body {
+    overflow: hidden;
+  }
+  .position {
+    left:-15% !important;
+  }
+  .elements {
+    width: 200px !important;
+    height: 70vh !important;
+  }
+}
