@@ -15,7 +15,7 @@
 
 ### Este é o repositório do projeto Spider-Verse, desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me). O projeto consiste em uma aplicação interativa inspirada no universo do Homem-Aranha, usando as principais stacks front-end: React, Next.js 13, a biblioteca Framer Motion, Sass e TypeScript para criar um projeto visual incrível e de alta performance.
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
-## [Clique aqui para acessar o Projeto](https://spiderverse-theta.vercel.app/)
+## [Clique aqui para acessar o Projeto](https://rafarz76dev-spiderverse.vercel.app/)
 
 <br>
 
