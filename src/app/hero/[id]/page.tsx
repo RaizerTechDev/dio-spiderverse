@@ -7,6 +7,7 @@ interface IProps {
   }
 }
 
+
 export default async function Hero ({params: {id}}: IProps){
   const heroes = await getData();
   return <Carousel heroes={heroes} activeId={id}/>
