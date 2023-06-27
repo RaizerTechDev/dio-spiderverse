@@ -39,7 +39,7 @@ export default function Carousel({heroes, activeId}: IProp){
     transitionAudio.play();
     const voiceAudio = voicesAudio[visibleItems[1].id];
     if(voiceAudio) {
-      voiceAudio.volume = 1.5;
+      voiceAudio.volume = 1.4;
       voiceAudio.muted = false;
       voiceAudio.play();
     }
