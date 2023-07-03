@@ -19,7 +19,7 @@
 
 <br>
 
-![spider-noir](./public/readme.aranhanoir.png)
+<img height="380em"  src="public/spider-verse.gif"  align="center">
 
 <div align="left">
 
