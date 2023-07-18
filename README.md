@@ -19,6 +19,8 @@
 
 <br>
 
+<img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [Demonstração do projeto]   <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35">
+
 <img height="380em"  src="public/spider-verse.gif"  align="center">
 
 <div align="left">
