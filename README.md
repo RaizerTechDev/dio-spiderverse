@@ -15,7 +15,7 @@
 
 ### Este é o repositório do projeto Spider-Verse, desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me). O projeto consiste em uma aplicação interativa inspirada no universo do Homem-Aranha, usando as principais stacks front-end: React, Next.js 13, a biblioteca Framer Motion, Sass e TypeScript para criar um projeto visual incrível e de alta performance.
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
-## [Clique aqui para acessar o Projeto](https://rafarz76dev-spiderverse.vercel.app/)
+## [Clique aqui para acessar o Projeto](https://raizertechdev-spider.vercel.app/)
 
 <br>
 
@@ -77,7 +77,7 @@ Agora você está pronto para explorar o projeto em seu ambiente local!
 
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/87991807?v=4"/>
-    <p>&nbsp&nbsp&nbspRafaRz76Dev<br>
-    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RafaRz76Dev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://portifolio-rafarz76dev.netlify.app/">Portfólio</a>&nbsp;</p>
+    <p>&nbsp&nbsp&nbspRafaRaizer-Dev<br>
+    &nbsp&nbsp&nbsp<a href="https://api.whatsapp.com/send/?phone=47999327137">Whatsapp</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/rafael-raizer//">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/RaizerTechDev">GitHub</a>|&nbsp;<a href="https://public.tableau.com/app/profile/rafael.raizer">Tableau</a>|&nbsp;<a href="https://raizertechdev-portfolio.netlify.app/">Portfólio</a>&nbsp;</p>
 </p>
 
